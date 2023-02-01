@@ -1,7 +1,6 @@
 #pragma once
 
-#include <iostream>
-#include "Sensor.h"
+#include "sensor.h"
 
 class TempratureSensor : public Sensor
 {
